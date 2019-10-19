@@ -1,0 +1,11 @@
+/home/gabba/Área de Trabalho/PIM_ASP/App11ConsoleTeste/Camada/obj/Debug/netcoreapp2.0/Camada.csprojAssemblyReference.cache
+/home/gabba/Área de Trabalho/PIM_ASP/App11ConsoleTeste/Camada/obj/Debug/netcoreapp2.0/Camada.csproj.CoreCompileInputs.cache
+/home/gabba/Área de Trabalho/PIM_ASP/App11ConsoleTeste/Camada/obj/Debug/netcoreapp2.0/Camada.AssemblyInfoInputs.cache
+/home/gabba/Área de Trabalho/PIM_ASP/App11ConsoleTeste/Camada/obj/Debug/netcoreapp2.0/Camada.AssemblyInfo.cs
+/home/gabba/Área de Trabalho/PIM_ASP/App11ConsoleTeste/Camada/bin/Debug/netcoreapp2.0/Camada.deps.json
+/home/gabba/Área de Trabalho/PIM_ASP/App11ConsoleTeste/Camada/bin/Debug/netcoreapp2.0/Camada.runtimeconfig.json
+/home/gabba/Área de Trabalho/PIM_ASP/App11ConsoleTeste/Camada/bin/Debug/netcoreapp2.0/Camada.runtimeconfig.dev.json
+/home/gabba/Área de Trabalho/PIM_ASP/App11ConsoleTeste/Camada/bin/Debug/netcoreapp2.0/Camada.dll
+/home/gabba/Área de Trabalho/PIM_ASP/App11ConsoleTeste/Camada/bin/Debug/netcoreapp2.0/Camada.pdb
+/home/gabba/Área de Trabalho/PIM_ASP/App11ConsoleTeste/Camada/obj/Debug/netcoreapp2.0/Camada.dll
+/home/gabba/Área de Trabalho/PIM_ASP/App11ConsoleTeste/Camada/obj/Debug/netcoreapp2.0/Camada.pdb
